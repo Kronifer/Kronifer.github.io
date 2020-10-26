@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "About my Perimeter Calculator"
 ---
 
-# Welcome
+# Perimeter Calculator
 
 **Hello world**, this is my first Jekyll blog post.
 
